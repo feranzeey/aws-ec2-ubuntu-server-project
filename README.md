@@ -24,17 +24,6 @@ ssh -i feranz.pem ubuntu@52.205.81.20
 sudo apt update
 ```
 
-## Screenshots
-
-### EC2 Dashboard
-(Add screenshot here)
-
-### SSH Login
-(Add screenshot here)
-
-### Security Group Rules
-(Add screenshot here)
-
 ## Skills Learned
 - AWS Cloud Computing
 - Linux Administration
